@@ -1,23 +1,137 @@
 import { StatusBar } from "expo-status-bar";
-import { StyleSheet, Text, View } from "react-native";
+import { ScrollView, StyleSheet, Text, View } from "react-native";
 import { VideoPlayer } from "./VideoPlayer";
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <ScrollView style={styles.container}>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
+      <Text>1</Text>
       <Text>1</Text>
       <VideoPlayer />
-      <Text>2</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
+      <Text>3</Text>
       <StatusBar style="auto" />
-    </View>
+    </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "black",
-    // alignItems: "center",
-    // justifyContent: "center",
+    backgroundColor: "white",
   },
 });
